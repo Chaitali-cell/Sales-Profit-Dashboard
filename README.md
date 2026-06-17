@@ -93,7 +93,7 @@ These slicers update all charts and KPIs instantly.
 
 ## 📷 Dashboard Preview
 
-![Sales & Profit Dashboard](dashboard.png)
+![Sales & Profit Dashboard](Dashboard.png)
 
 ---
 
